@@ -1,0 +1,20 @@
+
+ˆ
+java:S1128"fRemove this unused import 'org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean'.(Ü¥›åûÿÿÿÿ8—¿¼ş¢2
+o
+java:S1128"RRemove this unused import 'org.springframework.context.ApplicationEventPublisher'.(¤ë¢½8—¿¼ş¢2
+‚
+java:S1128	"eRemove this unused import 'org.springframework.security.authentication.AuthenticationEventPublisher'.(ş®Éü8—¿¼ş¢2
+
+java:S1128
+"lRemove this unused import 'org.springframework.security.authentication.DefaultAuthenticationEventPublisher'.(  ËÒùÿÿÿÿ8—¿¼ş¢2
+
+java:S1128"lRemove this unused import 'org.springframework.security.config.annotation.web.configurers.LogoutConfigurer'.(º²ÀÙøÿÿÿÿ8ëĞ¿ş¢2
+l
+java:S1128"ORemove this unused import 'org.springframework.security.core.userdetails.User'.(–Ä€8—¿¼ş¢2
+z
+java:S1128"]Remove this unused import 'org.springframework.security.core.userdetails.UserDetailsService'.(¶…¥à8—¿¼ş¢2
+ƒ
+java:S1128"aRemove this unused import 'org.springframework.security.provisioning.InMemoryUserDetailsManager'.(îŒúùÿÿÿÿ8—¿¼ş¢2
+W
+java:S1068"5Remove this unused "SWAGGER_WHITELIST" private field.(Şòù­øÿÿÿÿ8­ã¾ş¢2

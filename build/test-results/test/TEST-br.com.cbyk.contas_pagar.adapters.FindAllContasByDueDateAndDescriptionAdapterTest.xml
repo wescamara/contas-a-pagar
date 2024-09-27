@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.cbyk.contas_pagar.adapters.FindAllContasByDueDateAndDescriptionAdapterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-27T17:51:19" hostname="wesley-HP-240-G7-Notebook-PC" time="0.14">
+  <properties/>
+  <testcase name="shouldFindAllContasWithSuccess()" classname="br.com.cbyk.contas_pagar.adapters.FindAllContasByDueDateAndDescriptionAdapterTest" time="0.14"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

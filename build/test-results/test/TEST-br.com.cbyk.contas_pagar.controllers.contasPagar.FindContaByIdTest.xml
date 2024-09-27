@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.cbyk.contas_pagar.controllers.contasPagar.FindContaByIdTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-27T17:51:21" hostname="wesley-HP-240-G7-Notebook-PC" time="0.044">
+  <properties/>
+  <testcase name="testFindById()" classname="br.com.cbyk.contas_pagar.controllers.contasPagar.FindContaByIdTest" time="0.044"/>
+  <system-out><![CDATA[14:51:21.245 [Test worker] INFO org.springframework.mock.web.MockServletContext -- Initializing Spring TestDispatcherServlet ''
+14:51:21.245 [Test worker] INFO org.springframework.test.web.servlet.TestDispatcherServlet -- Initializing Servlet ''
+14:51:21.245 [Test worker] INFO org.springframework.test.web.servlet.TestDispatcherServlet -- Completed initialization in 0 ms
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
