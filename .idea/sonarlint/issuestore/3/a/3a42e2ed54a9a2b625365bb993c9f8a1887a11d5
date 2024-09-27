@@ -1,0 +1,9 @@
+
+w
+java:S1104"[Make CONTA_NOT_FOUND a static final constant or non-public and provide accessors if needed.(† °Y8á—öÿ¢2
+Q
+java:S1444"5Make this "public static CONTA_NOT_FOUND" field final(† °Y8á—öÿ¢2
+v
+java:S3008"ZRename this field "CONTA_NOT_FOUND" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(† °Y8ã—öÿ¢2
+W
+java:S1118":Add a private constructor to hide the implicit public one.(Ü„Ãö8ô—öÿ¢2

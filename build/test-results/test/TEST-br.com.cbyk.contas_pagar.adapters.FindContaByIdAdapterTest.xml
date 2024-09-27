@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.cbyk.contas_pagar.adapters.FindContaByIdAdapterTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-09-27T17:51:19" hostname="wesley-HP-240-G7-Notebook-PC" time="0.015">
+  <properties/>
+  <testcase name="shouldNotFindContaWithSuccess()" classname="br.com.cbyk.contas_pagar.adapters.FindContaByIdAdapterTest" time="0.008"/>
+  <testcase name="shouldFindContaWithSuccess()" classname="br.com.cbyk.contas_pagar.adapters.FindContaByIdAdapterTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
